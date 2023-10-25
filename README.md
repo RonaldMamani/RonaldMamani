@@ -1,4 +1,6 @@
-## Olá! Sou Ronaldo Arley 👋✨
+## Olá Tudo Bem! Sou Ronaldo Arley 👋✨
+
+Olá meu nome é Ronaldo, sou Desenvolvedor Front-End, sou da cidade de São Paulo, São Paulo. Gosto de desenvolvimento Web e gosto de criar sites e aplicações relacionadas ao Front-End.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronaldo-mamani-339b0b192/)
 [![GiiHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RonaldMamani)
