@@ -6,7 +6,6 @@ Olá meu nome é Ronaldo, sou Desenvolvedor Front-End, sou da cidade de São Pau
 [![GiiHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RonaldMamani)
 [![Blog](https://img.shields.io/website?label=Portifolio&url=https://ronaldmamani-dev.vercel.app/)](https://ronaldmamani-dev.vercel.app/)
 
-![Ronald GitHub](https://github-readme-stats.vercel.app/api?username=ronaldmamani&show_icons=true&theme=transparent)
 
 ## Tecnologias que uso no dia a dia
 
@@ -23,7 +22,3 @@ Olá meu nome é Ronaldo, sou Desenvolvedor Front-End, sou da cidade de São Pau
      <img alt="tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" >
      <img alt="styledcomponenst" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" >
 </div>
-
-## Meus Stats!
-
-![Ronald Techs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldmamani&layout=compact)
