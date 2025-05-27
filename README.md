@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6fa8dc&size=35&center=true&vCenter=true&width=1000&lines=Ola,+sou+Ronaldo+Arley;Sou+Desenvolvendor+Front-End)](https://git.io/typing-svg)
 
 #### Sobre Mim
-Sou Ronaldo Arley, estudante de Análise e Desenvolvimento de Sistemas, com hardskills em Desenvolvimento Front-End com _**React.js**_, _**Angular**_, _**Next.js**_, _**HTML**_, _**CSS**_, _**JavaScript**_, _**TypeScript**_ e hardskills em Back-End com _**Node.js**_, _**Express**_, _**Python**_, _**Java**_. Tenho conhecimento e experiência com bancos de dados _**MySQL**_, _**SQL Server**_ e _**Oracle**_, e soft skills como comunicação, adaptabilidade e organização. Possuo fluência em espanhol e inglês avançado e busco uma oportunidade para aplicar e expandir meus conhecimentos na área de Desenvolvimento.
+Sou Ronaldo Arley, estudante de Análise e Desenvolvimento de Sistemas, com hardskills em Desenvolvimento Front-End com _**React.js**_, _**Angular**_, _**Next.js**_, _**HTML**_, _**CSS**_, _**JavaScript**_, _**TypeScript**_, _**PHP**_ e hardskills em Back-End com _**Node.js**_, _**Express**_, _**C#**_,  _**.Net**_, _**Python**_, _**Java**_. Tenho conhecimento e experiência com bancos de dados _**MySQL**_, _**SQL Server**_ e _**Oracle**_, e soft skills como comunicação, adaptabilidade e organização. Possuo fluência em espanhol e inglês avançado e busco uma oportunidade para aplicar e expandir meus conhecimentos na área de Desenvolvimento.
 
 
 - Acesse meu portifolio [Clique aqui!](https://ronaldmamani-dev.vercel.app/)
@@ -26,7 +26,10 @@ Sou Ronaldo Arley, estudante de Análise e Desenvolvimento de Sistemas, com hard
      <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> </code>
      <code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"> </code>
      <code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> </code>
+     <code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/> </code>
+     <code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /> </code>
      <code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"> </code>
+     <code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" /> </code>
      <code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"> </code>
      <code> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"> </code>
      <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"> </code>
